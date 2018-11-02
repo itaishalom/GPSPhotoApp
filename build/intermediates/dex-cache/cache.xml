@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Itai\.android\build-cache\bfb59c7052e5fc39f60967dcc45866236c8e0c8b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Dropbox\My-Dir\Java\MyGlobalPhotos2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7f44a544f4f6d05c25e0e1a33b25097e3325bcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Itai\.android\build-cache\237993ade7857330a435ed6d5a46ac03fdae24dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Dropbox\My-Dir\Java\MyGlobalPhotos2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_137b6210344cf3f76c02ef7dbd34b0e8c819d0a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Itai\.android\build-cache\9c36586587c61139f7c5782b5543e563bec8bd1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Dropbox\My-Dir\Java\MyGlobalPhotos2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e337f4f5876ad070e259a5ce3d19c7b630a7fd90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Itai\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Dropbox\My-Dir\Java\MyGlobalPhotos2\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_1726359beddf4c5aaa755039bfa1508351c37e21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Itai\.android\build-cache\3f16d380d07a622e0f69408c1cd35c7d6a38b306\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Dropbox\My-Dir\Java\MyGlobalPhotos2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8fe49141eda7f08164c86c0c2635b0cc8786defc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Dropbox\My-Dir\Java\MyGlobalPhotos2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e66f49358b82aa2e3717e67e5cda98a2a9f5ef28">
+        <dex dex="C:\Dropbox\My-Dir\Java\MyGlobalPhotos2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a911af0e0558139250385b6bc2c541802da42bc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Dropbox\My-Dir\Java\MyGlobalPhotos2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Dropbox\My-Dir\Java\MyGlobalPhotos2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_24598a8aee223060e66e70da2960c546a1d89196\classes.dex" />
+    </item>
+
+</items>
