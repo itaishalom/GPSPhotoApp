@@ -1,3 +1,2 @@
 "# GPSPhotoApp" 
-"# GPSPhotoApp" 
-"# GPSPhotoApp" 
+Created by Itai Shalom
